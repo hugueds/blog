@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-description: "This is meta description."
+description: "Hugo Peres Blog"
 draft: false
 
 

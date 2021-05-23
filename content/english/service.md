@@ -1,5 +1,6 @@
 ---
 title : "SERVICES"
+enable: false
 service_list:
 # service item loop
 - name : "Web Development"
