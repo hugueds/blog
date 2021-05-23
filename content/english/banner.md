@@ -6,7 +6,7 @@ last_name : "Hugo Peres"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Industrial Automation Professional"
+- "Ind. Automation Professional"
 - "Computer Engineer Student"
 - "Web Developer"
 - "Machine Learning Creator"
