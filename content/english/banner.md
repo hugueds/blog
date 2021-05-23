@@ -2,7 +2,7 @@
 title : "Hello I'm Hugo"
 # full screen navigation
 # first_name : "Hugo Peres"
-last_name : "Hugo Peres"
+last_name : "Hugo"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
