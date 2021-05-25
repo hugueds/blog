@@ -36,12 +36,26 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    # - name : "Web Development"
-    #   percentage : "98%"
+    - name : "Industrial Automation Hardwares and Protocols"
+      percentage : "100%"
+
+    - name : "Angular 2+"
+      percentage : "95%"
+
+    - name : "Python"
+      percentage : "90%"
+
+    - name : "NodeJS"
+      percentage : "90%"
+
+    - name : "C# .Net Framework"
+      percentage : "80%"  
+
+    - name : "Tensorflow / Keras"
+      percentage : "75%"
       
-    # # skill item loop
-    # - name : "Graphic Design"
-    #   percentage : "85%"
+    - name : "Open CV"
+      percentage : "75%"
       
     # # skill item loop
     # - name : "Database Management"

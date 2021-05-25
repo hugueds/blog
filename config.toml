@@ -65,10 +65,10 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 favicon = "images/favicon.png"
 logo_light = "images/logo.png"
 logo_dark = "images/logo-dark.png"
-logo_width = "150px"
+logo_width = "130px"
 # Meta data
-description = "Personal Blog and Webpage for Hugo Peres"
-author = "hugueds"
+description = "Personal Blog and Webpage for Hugo Peres aka Hugueds"
+author = "Hugo Peres hugueds"
 
 
 # Preloader
@@ -124,16 +124,16 @@ url = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Service"
-pre = "#"
-url = "service"
-weight = 3
+#name = "Service"
+#pre = "#"
+#url = "service"
+#weight = 3
 
 [[Languages.en.menu.main]]
-name = "Portfolio"
-pre = "#"
-url = "portfolio"
-weight = 4
+#name = "Portfolio"
+#pre = "#"
+#url = "portfolio"
+#weight = 4
 
 
 [[Languages.en.menu.main]]
