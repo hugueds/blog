@@ -1,111 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://hugueds.github.io/categories/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/categories/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/categories/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/categories/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/categories/logo/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/portfolio/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/portfolio/project-1/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/portfolio/project-2/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/portfolio/project-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/portfolio/project-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/portfolio/project-5/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/portfolio/project-6/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/categories/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/funfacts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/blog/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/banner/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/service/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/testimonial/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hugueds.github.io/call-to-action/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://hugueds.github.io/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-05-12T12:14:34+06:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://hugueds.github.io/pt/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>

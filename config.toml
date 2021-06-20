@@ -109,6 +109,16 @@ home = "Home"
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
 
 
+################################### Portuguese language #####################################
+[Languages.pt]
+languageName = "PT"
+languageCode = "pt-br"
+contentDir = "content/portuguese"
+weight = 2
+home = "Home"
+# copyright
+copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+
 ################# english navigation ##################
 
 # main menu
