@@ -1,3 +1,4 @@
+git add .
 hugo --minify
 git commit -am "deploy to public"
 git push origin master
