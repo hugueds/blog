@@ -1,5 +1,5 @@
 git add .
-hugo --minify
+hugo 
 git commit -am "deploy to public"
 git push origin master
 cd public

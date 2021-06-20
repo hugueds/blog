@@ -7,7 +7,7 @@ tags: ["programming"]
 description: "Hello World, My First Blog Post!"
 ---
 
-## Hello World!
+## Hello, World!
 
 I was wondering on how many times we bump into this subject when we start in the programming carrer.
 That's why my first post on this blog wouldn't be different, so I wrote down this phrases on the languages that I'm most familiarwith.
@@ -22,8 +22,8 @@ That's why my first post on this blog wouldn't be different, so I wrote down thi
     <body>
 	<h1 id="hello" class="world"> </h1>
         <script>
-	    hello.text = "Hello, World!";
-            alert('Hello World!');
+		hello.text = "Hello, World!";
+		alert('Hello, World!');
         </script>
     </body>
 </html>
@@ -33,7 +33,7 @@ That's why my first post on this blog wouldn't be different, so I wrote down thi
 
 ```python
 # Python
-print('Hello World!')
+print('Hello, World!')
 ```
 
 ### C#
@@ -47,7 +47,7 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world!");
+            Console.WriteLine("Hello, World!");
             Console.ReadLine();
         }
     }
@@ -61,7 +61,7 @@ namespace Hello
 #include <stdio.h>
 
 int main() {
-    printf("Hello World!");
+    printf("Hello, World!");
     return 0;
 }
 
