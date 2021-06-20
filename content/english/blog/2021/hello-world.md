@@ -4,12 +4,11 @@ date: 2021-05-25T00:24:24-03:00
 draft: true
 # image: "images/portfolio/item1.jpg"
 tags: ["programming"]
-description: "Hello World, my first blog post"
+description: "Hello World, My First Blog Post!"
 ---
 
 ## Hello World!
 
-Escrever Hello World em diversar linguagens de programação
 
 ```HTML
 <!-- HTML + Javascript -->
@@ -56,9 +55,7 @@ int main() {
 }
 
 ```
+I was wondering on how many times we bump into this subject when we start in the programming carrer.
 
 
-Estive pensando na quantidade de vezes que falamos este termo enquanto estamos programando e quanto que isso já acabou tomando parte do que somos e reeditando o nosso DNA para que possamos
-
-Escrever o texto em português no final do mesmo...ou ingles depois portugues?
 
