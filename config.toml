@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://hugueds.github.io/"
-title = "Hugo Peres - Automation Developer"
+title = "Hugo Peres - Software Developer"
 theme = "somrat"
 # post pagination
 paginate = "6"
@@ -74,7 +74,7 @@ author = "Hugo Peres hugueds"
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/portrair.jpg" # use jpg, png, svg or gif format.
+preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
 [[params.social]]
